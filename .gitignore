@@ -61,4 +61,4 @@ typings/
 .next
 
 # secrets file
-.secrets
+./secrets
